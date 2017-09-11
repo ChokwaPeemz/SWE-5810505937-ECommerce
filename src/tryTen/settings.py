@@ -20,6 +20,12 @@ EMAIL_HOST_USER = 'username@gmail.com'
 EMAIL_HOST_PASSWORD = 'your password'
 EMAIL_PORT = '587'
 EMAIL_USE_TLS = True
+# 
+# EMAIL_HOST = 'smtp.gmail.com'
+# EMAIL_HOST_USER = 'username@gmail.com'
+# EMAIL_HOST_PASSWORD = 'your password'
+# EMAIL_PORT = '587'
+# EMAIL_USE_TLS = True
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
